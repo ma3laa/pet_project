@@ -1,3 +1,6 @@
+**A Routing project for a pet adoption site built with React - very insightful on how routing works with interactive webpages.**
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
